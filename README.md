@@ -16,4 +16,3 @@
 
 ### What would be really cool?
 - If the program could recognize words and fix semi-deciphered messages by looking for likely matches for a word (e.g. through an API)
-- 
